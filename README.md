@@ -21,7 +21,7 @@ ale also requires [lager](https://github.com/basho/lager) to be installed.
 Clone the repository in a suitable location:
 
 ```sh
-$ git clone git://github.com/tonyrog/ale.git
+$ git clone git://github.com/HocYachts/ale.git
 ```
 ### Functionality
 #### Concepts
@@ -75,7 +75,7 @@ Example:<br/>
 		 ]}
 ```
 
-An example can be found in ["sys.config"](https://github.com/tonyrog/ale/raw/master/sys.config).<br/>
+An example can be found in ["sys.config"](https://github.com/HocYachts/ale/raw/master/sys.config).<br/>
 
 
 #### Tips
