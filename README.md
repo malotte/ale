@@ -21,7 +21,7 @@ ale also requires [lager](https://github.com/basho/lager) to be installed.
 Clone the repository in a suitable location:
 
 ```sh
-$ git clone git://github.com/HocYachts/ale.git
+$ git clone git://github.com/ale/ale.git
 ```
 ### Functionality
 #### Concepts
